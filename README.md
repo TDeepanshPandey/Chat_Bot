@@ -8,6 +8,8 @@ The link of the course is https://www.udemy.com/nlp-natural-language-processing-
 
 My Certificate Link is https://www.udemy.com/certificate/UC-GOCDTZCN/
 
+End-to-End Memory Networks - https://arxiv.org/pdf/1503.08895.pdf 
+
 **Screenshot:**
 
 ![alt_text](https://github.com/TDeepanshPandey/Chat_Bot/blob/master/screenshot.png)
